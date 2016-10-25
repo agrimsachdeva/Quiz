@@ -1,0 +1,7 @@
+#Tue Oct 18 23:31:56 EDT 2016
+base.0=/home/grim/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9445766ceadc1e37e14ce852f06589e734202519
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/grim/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d26eaa8124049b9ae3005d7bf12573146976e83/classes.dex
+base.1=/home/grim/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4d26eaa8124049b9ae3005d7bf12573146976e83
+file.0=/home/grim/AndroidStudioProjects/Quiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9445766ceadc1e37e14ce852f06589e734202519/classes.dex
