@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+    <string name="welcome_message">Welcome to the My Quiz App, brought to you by</string>
+    <string name="developer_link"><a href="https://www.virtualpairprogrammers.com">Virtual Pair Programmers</a></string>
+    <string name="start_button">Start</string>
+    <string name="back_button">Back</string>
+    <string name="next_button">Next</string>
+    <string name="share_button">Share</string>
+    <string name="restart_button">Restart</string>
+    <string name="send_to">Share score with..</string>
+
+    <string-array name="feedback">
+        <item>You scored 0. That\'s rubbish.</item>
+        <item>You scored 1. That\'s rubbish.</item>
+        <item>You scored 2. That\'s rubbish.</item>
+        <item>You scored 3. The questions were easy though.</item>
+    </string-array>
+
+</resources>
